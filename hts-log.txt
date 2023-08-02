@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Aug 2023 11:24:15 at https://mission1success.online/Ai-Avatars +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mission1success.online/Ai-Avatars -O1 "C:\My Web Sites\ai" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:24:26	Error: 	"Not Found" (404) at link https://mission1success.online/c (from https://connect.facebook.net/en_US/fbevents.js)
+11:24:26	Error: 	"Not Found" (404) at link https://mission1success.online/b (from https://connect.facebook.net/en_US/fbevents.js)
+11:24:26	Error: 	"Not Found" (404) at link https://mission1success.online/POST (from https://connect.facebook.net/en_US/fbevents.js)
+11:24:26	Error: 	"Not Found" (404) at link https://mission1success.online/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+11:24:31	Error: 	"Not Found" (404) at link https://mission1success.online/a (from https://connect.facebook.net/en_US/fbevents.js)
+11:24:31	Error: 	"Not Found" (404) at link https://mission1success.online/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 42 links scanned, 35 files written (1898676 bytes overall) [1169321 bytes received at 68783 bytes/sec], 966238 bytes transferred using HTTP compression in 14 files, ratio 21%, 2.4 requests per connection
+(6 errors, 0 warnings, 0 messages)
